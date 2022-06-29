@@ -8,3 +8,5 @@
 Sejam bem vindos. Este é um perfil onde posto códigos e projetos voltados aos meus estudos na área de análise e desenvolvimento de sistemas
 
 Deseja entrar em contato? Me envie um e-mail em: hajikazuo@outlook.com
+
+Linkedin: https://www.linkedin.com/in/nilton-kazuo-165997243
