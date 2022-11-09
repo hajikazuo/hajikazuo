@@ -20,5 +20,10 @@ Linkedin: https://www.linkedin.com/in/nilton-kazuo-165997243
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 
-<img align="right" alt-"gif" src="https://i.pinimg.com/originals/bb/86/5a/bb865a6ec08ed6f8c65672a0133adf78.gif"/>
 <div/>
+
+##
+
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-kazuo-165997243/)
+[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajikazuo@outlook.com)
+
