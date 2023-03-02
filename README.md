@@ -7,8 +7,9 @@
 
 Gostaria de conversar? Me envie um e-mail em: hajikazuo@outlook.com
 
-Linkedin: https://www.linkedin.com/in/nilton-kazuo-165997243
-
+<div>
+  <a href="https://www.linkedin.com/in/nilton-kazuo//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=hajikazuo&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajikazuo&layout=compact&theme=algolia)](https://github.com/hajikazuo/hajikazuo/blob/main/README.md)
