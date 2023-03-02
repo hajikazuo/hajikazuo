@@ -5,7 +5,8 @@
 ![Banner](https://user-images.githubusercontent.com/105826619/176328466-cbfc30e9-9371-45d7-b44e-acf77cf9ca2e.png)
 
 
-Gostaria de conversar? Me envie um e-mail em: hajikazuo@outlook.com
+
+# Gostaria de conversar?
 
 <div>
    <a href = "mailto:hajikazuo@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
