@@ -3,16 +3,10 @@
 ![Banner](https://user-images.githubusercontent.com/105826619/176328466-cbfc30e9-9371-45d7-b44e-acf77cf9ca2e.png)
 
 <div>
-#Quem sou?
+
+# Quem sou?
 
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT, atualmente aprimorando minhas skills na área da programação
-
-#Skills
-- Entity framework core
-- Asp Net MVC
-- APIs
-- Windows Forms (Estrutura n camadas)
-- Persistencia de dados utilizando banco de dados relacionais
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=hajikazuo&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajikazuo&layout=compact&theme=algolia)](https://github.com/hajikazuo/hajikazuo/blob/main/README.md)
@@ -24,6 +18,12 @@ Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT, atualmente apr
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center" alt="html" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+
+- Entity framework core
+- Asp Net MVC
+- APIs
+- Windows Forms (Estrutura n camadas)
+- Persistencia de dados utilizando banco de dados relacionais
 
 <div/>
 
