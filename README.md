@@ -1,4 +1,13 @@
-![Bem vindos ao meu perfil!] 
+#Quem sou?
+
+Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT, atualmente aprimorando minhas skills na área da programação
+
+#Skills
+- Entity framework core
+- Asp Net MVC
+- APIs
+- Windows Forms (Estrutura n camadas)
+- Persistencia de dados utilizando banco de dados relacionais
 
 </span>
 
