@@ -1,3 +1,7 @@
+</span>
+
+![Banner](https://user-images.githubusercontent.com/105826619/176328466-cbfc30e9-9371-45d7-b44e-acf77cf9ca2e.png)
+
 #Quem sou?
 
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT, atualmente aprimorando minhas skills na área da programação
@@ -8,12 +12,6 @@ Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT, atualmente apr
 - APIs
 - Windows Forms (Estrutura n camadas)
 - Persistencia de dados utilizando banco de dados relacionais
-
-</span>
-
-![Banner](https://user-images.githubusercontent.com/105826619/176328466-cbfc30e9-9371-45d7-b44e-acf77cf9ca2e.png)
-
-
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=hajikazuo&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajikazuo&layout=compact&theme=algolia)](https://github.com/hajikazuo/hajikazuo/blob/main/README.md)
