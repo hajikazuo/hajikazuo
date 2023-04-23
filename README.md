@@ -2,6 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/105826619/176328466-cbfc30e9-9371-45d7-b44e-acf77cf9ca2e.png)
 
+<div>
 #Quem sou?
 
 Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT, atualmente aprimorando minhas skills na área da programação
