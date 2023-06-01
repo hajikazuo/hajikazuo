@@ -23,5 +23,5 @@ Aqui estão algumas das minhas principais habilidades:
 
 Fique à vontade para entrar em contato comigo:
 
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil-linkedin/)
+- Email: hajikazuo@outlook.com
+- LinkedIn: https://www.linkedin.com/in/nilton-kazuo/
