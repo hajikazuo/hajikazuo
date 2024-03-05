@@ -9,8 +9,6 @@ Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com su
 
 # Minhas Skills
 
-Stack utilizada em meus projetos:
-
 - C#
 - ASP.NET MVC
 - Web API
