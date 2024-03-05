@@ -9,17 +9,21 @@ Olá, meu nome é Nilton e sou estudante de Análise e Desenvolvimento de Sistem
 
 # Minhas Skills
 
-Aqui estão algumas das minhas principais habilidades:
+Stack utilizada em meus projetos:
 
-- ASP.NET e ASP.NET MVC
+- C#
+- ASP.NET MVC
+- Web API
+- JWT
+- Axios
 - Entity Framework Core
-- PHP com Laravel
-- Desenvolvimento de aplicações Windows Forms (utilizando estrutura em camadas)
-- HTML e CSS
-- JavaScript
-- Bootstrap 5
+- Dapper
+- HTML 5, CSS e framework Bootstrap
+- JS Vanilla
+- MS Sql Server
+- React 
 
-# Gostaria de conversar?
+# Quer conversar sobre técnologia?
 
 Fique à vontade para entrar em contato comigo:
 
