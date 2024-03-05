@@ -2,7 +2,7 @@
 
 # Quem sou?
 
-Olá, meu nome é Nilton e sou estudante de Análise e Desenvolvimento de Sistemas pela UNIFAAT. Atualmente, estou focado em aprimorar minhas habilidades na área de programação.
+Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com suporte e manutenção de sistemas e faço alguns freelancers.
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=hajikazuo&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajikazuo&layout=compact&theme=algolia)](https://github.com/hajikazuo/hajikazuo/blob/main/README.md)
