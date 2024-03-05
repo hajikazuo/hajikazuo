@@ -21,7 +21,7 @@ Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com su
 - MS Sql Server
 - React 
 
-# Quer conversar sobre técnologia?
+# Quer conversar sobre tecnologia?
 
 Fique à vontade para entrar em contato comigo:
 
