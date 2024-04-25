@@ -2,7 +2,7 @@
 
 # Quem sou?
 
-Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com suporte e manutenção de sistemas, e faço alguns freelancers desenvolvendo websites e sistemas web.
+Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com suporte e manutenção de sistemas.
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=hajikazuo&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajikazuo&layout=compact&theme=algolia)](https://github.com/hajikazuo/hajikazuo/blob/main/README.md)
