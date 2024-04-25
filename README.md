@@ -17,9 +17,10 @@ Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com su
 - Entity Framework Core
 - Dapper
 - HTML 5, CSS e framework Bootstrap
-- JS Vanilla
+- JavaScript
 - MS Sql Server
-- React 
+- React
+- Docker
 
 # Quer conversar sobre tecnologia?
 
