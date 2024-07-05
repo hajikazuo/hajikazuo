@@ -1,8 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/105826619/176328466-cbfc30e9-9371-45d7-b44e-acf77cf9ca2e.png)
 
-# Quem sou?
-
-Olá, meu nome é Nilton e sou programador Back-end. Atualmente, trabalho com suporte e manutenção de sistemas.
 
 ![Nilton GitHub stats](https://github-readme-stats.vercel.app/api?username=hajikazuo&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajikazuo&layout=compact&theme=algolia)](https://github.com/hajikazuo/hajikazuo/blob/main/README.md)
